@@ -1,0 +1,37 @@
+/* shared styles */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,900&display=swap');
+
+.font-bebas {
+    font-family: "Bebas Neue", sans-serif;
+}
+
+
+.font-roboto {
+    font-family: "Roboto", sans-serif;
+}
+
+.orange-primary {
+    color: #FABE4C;
+}
+
+.black-primary {
+    color: #363958;
+}
+
+.common-description {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #3E3E3E;
+    line-height: 26px;
+}
+
+.btn-primary {
+    font-size: normal;
+    font-weight: 500;
+    padding: 18px 33px;
+    border-radius: 10px;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    background: linear-gradient(180.00deg, rgb(164, 188, 70), rgb(133, 160, 25) 100%);
+}
